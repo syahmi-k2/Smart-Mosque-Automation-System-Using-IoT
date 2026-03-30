@@ -1,77 +1,59 @@
-The Smart Mosque Automation System is an IoT-based project designed to improve the efficiency, safety, and energy management of mosque facilities.
-This system allows users to remotely control electrical appliances such as:
+# 🕌 Smart Mosque Automation System
 
-💡 Lights
-🌀 Fans
-🔐 Door lock
+## 📌 Overview
+A home automation system concept designed to improve the efficiency, safety, and energy management of mosque facilities with IoT.
+This system allows users to remotely control electrical appliances such as:
+- Lights
+- Fans
+- Door lock
 
 All controls are accessible via a mobile application using the Blynk platform, providing real-time monitoring and control.
 
-The project involves:
-- System design and planning  
-- Hardware and software integration  
-- Testing and validation
+## 🎯 Objectives
+- Design an IoT-based system to remotely control electrical devices
+- Develop a user-friendly mobile interface for mosque staff
+- Improve energy efficiency by reducing electricity wastage
 
-### 👨‍💼 My Role (Project Leader)
-Responsible for leading the project and ensuring successful completion.
+## ⚙️ Hardware Components
+- Raspberry Pi Pico W
+- 4-Channel Relay Modules
+- PC Fans
+- LED Lights
+- Solenoid Door Lock
+- Push Button Switches
+- Power Supply (12V with step-down converter)
 
-### Key Responsibilities:
-- Project planning and task coordination  
-- System design decision-making  
-- Troubleshooting and problem solving  
-- Integration of components  
-- Final system validation
-- 
-### 👥 Team Contributions
-This project was completed as part of a group (G22).
+## 🚀 Features
+- Remote control via smartphone (Blynk app)
+- Two-way control system (physical switch + mobile app)
+- Real-time device monitoring
+- Energy-efficient automation
 
-- Team members contributed to design, development, and testing  
-- Collaboration and communication were key to project success  
+## 🧠 System Architecture
+The system consists of:
+- Input:
+  - Mobile phone / Laptop (Blynk App)
+  - Push button switches
+- Controller: Raspberry Pi Pico W
+- Output Devices:
+  - Fans
+  - LED lights
+  - Solenoid door lock
+- Communication: WiFi (IoT-based)
 
-### 🎯 Objectives
+## 💻 Software Used
+- MicroPython (for coding)
+- Thonny IDE
+- Blynk IoT Platform
 
-- Design and develop a functional engineering system  
-- Apply theoretical knowledge into practical implementation  
-- Ensure system reliability through testing  
+## 📸 Project Images
 
-### ⚙️ System Features
+## 📄 License
+This project is for academic and educational purposes.
 
-- Functional system implementation  
-- Integration of multiple components  
-- Real-world problem solving approach 
+## 👨‍💻 Author
+Muhammad Syahmi Bin Mohd Shukri 
 
-### 🧩 System Architecture
+Bachelor of Electronic Engineering Technology
 
-*(Explain briefly based on your project)*
-
-- Input → Processing → Output system  
-- Components interact to achieve overall functionality  
-
-### 📊 Results & Findings
-
-- System successfully achieved its intended functionality  
-- Performance validated through testing  
-- Identified limitations and areas for improvement  
-
-### 🛠️ Tools & Technologies
-
-*(Edit based on your project)*
-
-- Arduino / Microcontroller  
-- CAD Software  
-- Simulation tools  
-- Programming (C / Embedded Systems)  
-
-## 🚀 Challenges
-
-- System integration issues  
-- Hardware limitations  
-- Debugging and testing complexity  
-
----
-
-## 🔮 Future Improvements
-
-- Improve system efficiency  
-- Enhance design robustness  
-- Add more advanced features  
+## 🙏 Credits & Acknowledgements
