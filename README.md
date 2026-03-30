@@ -47,7 +47,7 @@ The system consists of:
 - Blynk IoT Platform
 
 ## 📸 Project Images
-![Overview]!(images/Early-late-Development.jpg)
+![Overview](images/Early-late-Development.jpg)
 
 ## 📄 License
 This project is for academic and educational purposes.
