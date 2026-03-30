@@ -1,13 +1,9 @@
-## 🧠 Introduction
-
-This project was developed as part of a **team-based engineering design project**, focusing on solving real-world engineering problems through system integration and practical implementation.
+This project was developed as part of a team-based engineering design project, focusing on solving real-world engineering problems through system integration and practical implementation.
 
 The project involves:
 - System design and planning  
-- Hardware and/or software integration  
-- Testing and validation  
-
----
+- Hardware and software integration  
+- Testing and validation
 
 ## 👨‍💼 My Role (Project Leader)
 
