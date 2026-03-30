@@ -57,8 +57,6 @@ Muhammad Syahmi Bin Mohd Shukri
 
 Project Leader – Group 22 
 
-Bachelor of Electronic Engineering Technology
-
 ## 🙏 Credits & Acknowledgements
 This project was completed as part of a group assignment.  
 Credit to all team members for their contributions:
