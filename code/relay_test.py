@@ -6,9 +6,9 @@ from BlynkTimer import BlynkTimer
  
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
-wlan.connect("Galaxy A12BF51","hbjf4876")
+wlan.connect("your_ssid","your_password")
  
-BLYNK_AUTH = '2iZiaYD7GZWpS-_kVw9YAfQuhAPyRcbg'
+BLYNK_AUTH = '' #your blnyk auth code
  
 timer=BlynkTimer() 
  
